@@ -17,34 +17,27 @@ Estudante na Universidade Paulista cursando 5º semestre do bacharelado em Ciên
 	<img title="CSS" alt="CSS" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">  
 </details>
 
-<details open>
+<details closed>
 	<summary><b>Frameworks:</b></summary>
 	<br>
-	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/simple/bootstrap.svg?size=50&color=currentColor&colored=true"> 
 	<img title="AngularJs" alt="AngularJs" src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor">
+	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/simple/bootstrap.svg?size=50&color=currentColor&colored=true">	
 </details>
 
-<details open>
+<details closed>
 	<summary><b>Banco de Dados:</b></summary>
 	<br>
 	<img title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=50&color=currentColor"> 
 	<img title="Oracle" alt="Oracle" src="https://icongr.am/devicon/oracle-original.svg?size=50&color=currentColor"> 
 </details>
 
-<details open>
-	<summary><b>IDE:</b></summary>
-	<br>
-	<img title="ApacheNetBeans" alt="ApacheNetBeans" src="https://icongr.am/simple/apachenetbeanside.svg?size=50&color=currentColor&colored=true"> 
-	<img title="VisualStudioCode" alt="VisualStudioCode" src="https://icongr.am/simple/visualstudiocode.svg?size=50&color=currentColor&colored=true">
-  <img title="Eclipse" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-</details>
 
 ## **GitHub Estatística**
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui591&theme=github_dark&hide_langs_below=1"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOliveira591&theme=github_dark&hide_langs_below=1"/>
 </p>
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gui591&show_icons=true&theme=github_dark&line_height=27" alt="Guilherme github stats"/></p>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOliveira591&show_icons=true&theme=github_dark&line_height=27" alt="Guilherme github stats"/></p>
 
 
 
