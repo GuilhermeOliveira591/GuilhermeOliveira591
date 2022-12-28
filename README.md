@@ -10,6 +10,7 @@ Estudante na Universidade Paulista cursando 5º semestre do bacharelado em Ciên
 	<summary><b>Linguagens:</b></summary>
 	<br> 
 	<img title="Java" alt="Java" src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor">  
+	<img title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">  
 	<img title="Python" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor">  
 	<img title="JavaScript" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor">  
 	<img title="HTML" alt="HTML" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor">  
