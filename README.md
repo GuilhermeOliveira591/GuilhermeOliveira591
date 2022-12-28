@@ -21,6 +21,7 @@ Estudante na Universidade Paulista cursando 5º semestre do bacharelado em Ciên
 	<summary><b>Frameworks:</b></summary>
 	<br>
 	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/simple/bootstrap.svg?size=50&color=currentColor&colored=true"> 
+	<img title="AngularJs" alt="AngularJs" src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor">
 </details>
 
 <details open>
