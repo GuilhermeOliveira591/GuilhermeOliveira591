@@ -41,6 +41,8 @@ Estudante na Universidade Paulista cursando 5º semestre do bacharelado em Ciên
 	
 <br>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuilhermeOliveira591" alt="GuilhermeOliveira591">
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="45px">
