@@ -38,6 +38,15 @@ Estudante na Universidade Paulista cursando 5º semestre do bacharelado em Ciên
 </p>
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOliveira591&show_icons=true&theme=github_dark&line_height=27" alt="Guilherme github stats"/></p>
+	
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeOliveira591" alt="GuilhermeOliveira591">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="45px">
+</p>
+
+<img src="https://imgur.com/rilHVxA.png"/> 
 
 
 
