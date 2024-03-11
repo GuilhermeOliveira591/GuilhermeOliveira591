@@ -8,14 +8,12 @@ Desenvolvedor Fullstack Junior, amante da tecnologia e Bacharel em Ciência da C
 ## **Skills**
 
 <details open>
-	<summary><b>Linguagens:</b></summary>
+	<summary><b>Linguagens de Programação:</b></summary>
 	<br> 
 	<img title="Java" alt="Java" src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor">  
 	<img title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor">  
 	<img title="Python" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor">  
 	<img title="JavaScript" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor">  
-	<img title="HTML" alt="HTML" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor">  
-	<img title="CSS" alt="CSS" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">  
 </details>
 
 <details open>
@@ -23,13 +21,17 @@ Desenvolvedor Fullstack Junior, amante da tecnologia e Bacharel em Ciência da C
 	<br>
 	<img title="AngularJs" alt="AngularJs" src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor">
 	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/simple/bootstrap.svg?size=50&color=currentColor&colored=true">
-	<img title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=50&color=currentColor">
-	
+	<img title=".NET" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="60" height="60">
+	<img title="RobotFramework" alt= "RobotFramework" src="https://github.com/GuilhermeOliveira591/GuilhermeOliveira591/assets/65633355/f31dd9b6-2a67-40e1-b75b-7e0c056c74b9" width="50" height="50">
+	<img title="Selenium" alt= "Selenium" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15484977381551942825-512.png" width="50" height="50">
+
 </details>
 
 <details open>
 	<summary><b>Banco de Dados:</b></summary>
 	<br>
-	<img title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=50&color=currentColor"> 
-	<img title="Oracle" alt="Oracle" src="https://icongr.am/devicon/oracle-original.svg?size=50&color=currentColor"> 
+	<img title="SQL Server" alt= "SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60">
+	<img title="PostgreSQL" alt= "PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60">
+	<img title="MongoDB" alt= "MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60">
+	<img title="Redis" alt= "Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="60" height="60">
 </details>
