@@ -25,7 +25,9 @@ Desenvolvedor Fullstack, amante da tecnologia e Bacharel em CiÃªncia da ComputaÃ
 	<img title=".NET" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="60" height="60">
 	<img title="RobotFramework" alt= "RobotFramework" src="https://github.com/GuilhermeOliveira591/GuilhermeOliveira591/assets/65633355/f31dd9b6-2a67-40e1-b75b-7e0c056c74b9" width="50" height="50">
 	<img title="Selenium" alt= "Selenium" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15484977381551942825-512.png" width="50" height="50">
-
+ 	<img title="Spring" alt= "Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50">
+	<img title="Django" alt= "Django" src="https://icongr.am/devicon/django-original.svg?size=60&color=currentColor">
+	<img title="Node.js" alt= "Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60">
 </details>
 
 <details open>
