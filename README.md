@@ -38,3 +38,9 @@ Desenvolvedor Fullstack, amante da tecnologia e Bacharel em CiÃªncia da ComputaÃ
 	<img title="MongoDB" alt= "MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60">
 	<img title="Redis" alt= "Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="60" height="60">
 </details>
+
+## **Github Stats**
+<div>
+	<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeOliveira591&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
+<br />
