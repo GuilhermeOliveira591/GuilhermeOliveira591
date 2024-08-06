@@ -14,13 +14,14 @@ Desenvolvedor Fullstack, amante da tecnologia e Bacharel em CiÃªncia da ComputaÃ
 	<img title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor">  
 	<img title="Python" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor">  
 	<img title="JavaScript" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor">  
+ 	<img title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60">
 </details>
 
 <details open>
 	<summary><b>Frameworks:</b></summary>
 	<br>
 	<img title="AngularJs" alt="AngularJs" src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor">
-	<img title="ReactJs" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60">
+	<img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60">
 	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/simple/bootstrap.svg?size=50&color=currentColor&colored=true">
 	<img title=".NET" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="60" height="60">
 	<img title="RobotFramework" alt= "RobotFramework" src="https://github.com/GuilhermeOliveira591/GuilhermeOliveira591/assets/65633355/f31dd9b6-2a67-40e1-b75b-7e0c056c74b9" width="50" height="50">
