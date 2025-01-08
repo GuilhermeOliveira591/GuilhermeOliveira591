@@ -1,6 +1,8 @@
-# Guilherme Gomes
+## **Muito prazer, sou Guilherme Gomes 🎮👨🏻‍💻🤖**
 
-Desenvolvedor Fullstack, amante da tecnologia e Bacharel em Ciência da Computação
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeOliveira591" alt="GuilhermeOliveira591" /> </p>
+
+## **Contato**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guioliveira1711/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?l=pt&amp;phone=5511973864580)
