@@ -1,58 +1,46 @@
-## **Muito prazer, sou Guilherme Gomes 🎮👨🏻‍💻🤖**
+# Guilherme Gomes 👨🏻‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeOliveira591" alt="GuilhermeOliveira591" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeOliveira591&color=007acc&style=flat-square" alt="GuilhermeOliveira591" />
+</p>
 
-## **Contato**
+> **Engenheiro de Software focado em sistemas escaláveis e resiliência técnica.**
+> Minha abordagem consiste em equilibrar inovação tecnológica com estabilidade operacional. Acredito que código bom é código que resolve o problema de negócio com o menor débito técnico possível.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guioliveira1711/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?l=pt&amp;phone=5511973864580)
+---
 
-## **Skills**
+### 🏛️ Perfil Profissional
+Atuo no desenvolvimento de soluções robustas de ponta a ponta, com experiência sólida em ecossistemas de alta disponibilidade. Tenho como premissa a automação de processos (QA/DevOps) e a escrita de código limpo e testável.
 
-<details open>
-	<summary><b>Linguagens de Programação:</b></summary>
-	<br> 
-	<img title="Java" alt="Java" src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor">  
-	<img title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor">  
-	<img title="Python" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor">  
-	<img title="JavaScript" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor">  
- 	<img title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60">
-	<img title="TypeScript" alt="TypeScript" src="https://icongr.am/devicon/typescript-plain.svg?size=60&color=currentColor">
-	<img title="Go" alt="Go" src="https://icongr.am/devicon/go-original.svg?size=60&color=currentColor">
-</details>
+* **Arquitetura:** Experiência com Microserviços, Event-driven, DDD (Domain-Driven Design) e Clean Architecture.
+* **DevOps Mindset:** Foco em containerização (Docker/K8s) e observabilidade.
+* **QA & Resiliência:** Implementação de testes automatizados e fluxos de CI/CD para garantir entregas contínuas e seguras.
 
-<details open>
-	<summary><b>Frameworks:</b></summary>
-	<br>
-	<img title="AngularJs" alt="AngularJs" src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor">
-	<img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60">
-	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/simple/bootstrap.svg?size=50&color=currentColor&colored=true">
-	<img title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=60&color=ffffff">
-	<img title="RobotFramework" alt= "RobotFramework" src="https://github.com/GuilhermeOliveira591/GuilhermeOliveira591/assets/65633355/f31dd9b6-2a67-40e1-b75b-7e0c056c74b9" width="50" height="50">
-	<img title="Selenium" alt= "Selenium" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15484977381551942825-512.png" width="50" height="50">
- 	<img title="Spring" alt= "Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50">
-	<img title="Django" alt= "Django" src="https://icongr.am/devicon/django-original.svg?size=60&color=currentColor">
-	<img title="Node.js" alt= "Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60">
-</details>
+---
 
-<details open>
-	<summary><b>Banco de Dados:</b></summary>
-	<br>
-	<img title="SQL Server" alt= "SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60">
-	<img title="PostgreSQL" alt= "PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60">
-	<img title="MongoDB" alt= "MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60">
-	<img title="Redis" alt= "Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="60" height="60">
-</details>
+### 🛠️ Core Stack & Expertise
 
-<details open>
-	<summary><b>DevOps:</b></summary>
-	<br>
- 	<img title="Docker" alt= "Docker" src="https://icongr.am/devicon/docker-original.svg?size=60&color=ffffff">
- 	<img title="Kubernetes" alt= "Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="60" height="60">	
-</details>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Back-end & Runtime** | Java (Spring), C# (.NET Core), TypeScript, Go, Python (Django) |
+| **Front-end Ecosystem** | React, Angular, JavaScript, Tailwind |
+| **Data & Auth** | SQL Server, Supabase, PostgreSQL, Clerk (IAM), MongoDB, Redis (Caching) |
+| **Cloud & Infrastructure** | Docker, Kubernetes, CI/CD Pipelines |
+| **Automation & Quality** | Robot Framework, Selenium, Unit Testing |
 
-## **Github Stats**
-<div>
-	<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeOliveira591&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-<br />
+---
+
+### 📈 Engenharia em Dados (GitHub Stats)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOliveira591&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOliveira591&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff" />
+</p>
+
+---
+
+### 💬 Entre em contato
+Para discussões sobre arquitetura de sistemas, colaborações em projetos open-source ou oportunidades profissionais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guioliveira1711/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?l=pt&amp;phone=5511973864580)
